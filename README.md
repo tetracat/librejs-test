@@ -1,1 +1,2 @@
 # librejs-test
+Awesome!
